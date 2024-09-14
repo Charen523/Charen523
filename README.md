@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Charen's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&section=header&text=Charen's%20Github&fontSize=70" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Game+Developer;Bachelor+of+Computer+Science;C%2B%2B%2C+C%23%2C+Python)](https://git.io/typing-svg)
 
