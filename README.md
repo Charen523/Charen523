@@ -46,17 +46,14 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charen523&count_private=true&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charen523&layout=compact" alt="Top Langs" />
 </div>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloe4baek)](https://solved.ac/chloe4baek/)
-
-
-
----
-
-
+<div align="center">
+  <a href="https://solved.ac/chloe4baek/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chloe4baek" alt="Solved.ac Profile" />
+  </a>
+</div>
 
 ---
