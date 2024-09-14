@@ -1,7 +1,4 @@
-## Hi there 👋
-https://capsule-render.vercel.app/api?
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Charen's%20Github&fontSize=90" />
 
 <!--
 **Charen523/Charen523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
