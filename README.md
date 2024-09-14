@@ -2,12 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Game+Developer;Bachelor+of+Computer+Science;C%2B%2B%2C+C%23%2C+Python)](https://git.io/typing-svg)
 
+---
+
 - 🔭 I’m currently working on ...
   + Individual Unity 3D Project
 - 🌱 I’m currently learning ...
   + C++ Algorithm
   + Firebase SDK
   + Unity6
+
+---
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
 <p align="center">
@@ -24,7 +28,6 @@
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=000000" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/figma-DDDDDD.svg?style=for-the-badge&logo=figma&logoColor=A55EFF" />&nbsp
   <img src="https://img.shields.io/badge/Trello-66DDFF.svg?style=for-the-badge&logo=trello&logoColor=0052CC" />&nbsp
@@ -41,3 +44,8 @@
   </a>
 </p>
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charen523&count_private=trueshow_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
